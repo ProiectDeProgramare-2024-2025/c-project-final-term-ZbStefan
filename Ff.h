@@ -1,0 +1,13 @@
+#ifndef FF_H
+#define FF_H
+    void read_leaderboard();
+    int number_2();
+    int number_3();
+    int number_4();
+    int number_5();
+    void meniu();
+    void display_game_tries();
+    void play_hangman();
+    int compareScores();
+    void display_history();
+#endif //FF_H
